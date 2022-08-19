@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MazeGenerator",
+	"Description": "A code plugin that provides a maze generator",
+	"Category": "Other",
+	"CreatedBy": "RealTryibion",
+	"CreatedByURL": "",
+	"DocsURL": "https://github.com/Tryibion/MazeGenerator",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MazeGenerator",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": ["Win64"]
+		}
+	]
+}
